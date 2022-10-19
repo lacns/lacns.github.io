@@ -6,7 +6,7 @@ order:
 alumni:
 current-position:
 
-email: marieke.woensdregt@gmail.com
+email: marieke.woensdregt@mpi.nl
 
 website: https://marieke-woensdregt.github.io/
 twitter: mariekewoe
