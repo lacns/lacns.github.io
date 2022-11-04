@@ -15,7 +15,7 @@ impactstory:
 orcid:
 github:
 
-image_path: /assets/images/headshots/placeholder.png
+image_path: /assets/images/headshots/pic_GK.jpg
 
 bio:
 ---

@@ -3,7 +3,7 @@ firstname: Yangyi
 surname: Shao
 role: MSc student
 order:
-alumni:
+alumni: 01/01/2022
 current-position:
 
 email:

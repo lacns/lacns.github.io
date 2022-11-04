@@ -3,8 +3,8 @@ firstname: Junyuan
 surname: Zhao
 role: MSc student
 order:
-alumni:
-current-position:
+alumni: 01/01/2022
+current-position: PhD student UMich Linguistics)
 
 email:
 

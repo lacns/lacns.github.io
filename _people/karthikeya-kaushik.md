@@ -3,8 +3,8 @@ firstname: Karthikeya
 surname: Kaushik
 role: Research assistant
 order:
-alumni:
-current-position:
+alumni: 01/01/2022
+current-position: PhD student Berkeley Psychology
 
 email: karthikeya.kaushik@mpi.nl
 
