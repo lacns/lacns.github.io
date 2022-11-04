@@ -5,6 +5,8 @@
 {% assign preprints = site.array %}
 {% assign year_header = 0 %}
 
+<!-- make separate variable for preprints -->
+<!-- probably here I should divide in three categories -->
 {% for pub in pubs %}
     {% if pub.Preprint_platform != nil %}
       {% assign preprints = preprints | push: pub %}
@@ -12,6 +14,7 @@
     {% endif %}
 {% endfor %}
 
+<!-- print first preprints -->
 {% for preprint in preprints %}
   <div class="preprints">
     {% if forloop.first %}
@@ -29,10 +32,11 @@
 
 {% for pub in pubs %}
   <div class="publications">
+    <!-- skip preprints -->
     {% if pub.Preprint_platform != nil %}
-      {% assign preprints = preprints | push: pub %}
       {% continue %}
     {% endif %}
+
     {% assign pub_year = pub.Date | date: '%Y' %}
     {% if year_header != pub_year %}
       <div class="year">
