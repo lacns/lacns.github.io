@@ -8,7 +8,7 @@ current-position:
 
 email: sophie.slaats@mpi.nl
 
-website: www.sophieslaats.nl
+website: https://www.sophieslaats.nl
 twitter: sophie_slaats
 researchgate: Sophie_Slaats
 impactstory:
