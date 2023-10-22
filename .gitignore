@@ -6,3 +6,4 @@ vendor
 _data/people.yml
 _includes/people0.html
 *_bu
+.ipynb_checkpoints/
