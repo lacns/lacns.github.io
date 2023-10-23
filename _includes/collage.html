@@ -9,13 +9,15 @@
 
 <div class="collage-container">
   <div class="collage-item">
-    {% for person in current-member limit:4 %}
+    {% for person in current-member limit:5 %}
       <img src="{{ site.baseurl }}{{ person.image_path }}" title="{{ person.firstname }} {{ person.surname }}" alt="{{ person.firstname }} {{ person.surname}}" />
     {% endfor %}
   </div>
   <div class="collage-item">
-    {% for person in current-member limit:5 offset:4 %}
-      <img src="{{ site.baseurl }}{{ person.image_path }}" title="{{ person.firstname }} {{ person.surname }}" alt="{{ person.firstname }} {{ person.surname}}" />
+    {% for person in current-member limit:4 offset:5 %}
+      <!-- <a href="{{ site.baseurl }}{{ person.person_url }}"> -->
+        <img src="{{ site.baseurl }}{{ person.image_path }}" title="{{ person.firstname }} {{ person.surname }}" alt="{{ person.firstname }} {{ person.surname}}" />
+      <!-- </a> -->
     {% endfor %}
   </div>
   <div class="collage-item">
@@ -44,16 +46,13 @@
     {% endfor %}
   </div>
   <div class="collage-item">
-    {% for person in current-member limit:4 offset:34 %}
+    {% for person in current-member limit:5 offset:34 %}
       <img src="{{ site.baseurl }}{{ person.image_path }}" title="{{ person.firstname }} {{ person.surname }}" alt="{{ person.firstname }} {{ person.surname}}" />
     {% endfor %}
   </div>
-  <!-- <div class="collage-item">
-    {% for person in current-member limit:3 offset:15 %}
+  <div class="collage-item">
+    {% for person in current-member limit:4 offset:39 %}
       <img src="{{ site.baseurl }}{{ person.image_path }}" title="{{ person.firstname }} {{ person.surname }}" alt="{{ person.firstname }} {{ person.surname}}" />
     {% endfor %}
-    {% for person in current-member limit:3 offset:18 %}
-      <img src="{{ site.baseurl }}{{ person.image_path }}" title="{{ person.firstname }} {{ person.surname }}" alt="{{ person.firstname }} {{ person.surname}}" />
-    {% endfor %}
-  </div> -->
+  </div> 
 </div>
