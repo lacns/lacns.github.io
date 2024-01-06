@@ -16,6 +16,7 @@ orcid:
 github:
 
 image_path: /assets/images/headshots/pic_GK.jpg
+bio_url: GK
 
 bio:
 ---

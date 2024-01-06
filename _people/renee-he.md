@@ -16,6 +16,7 @@ orcid:
 github:
 
 image_path: /assets/images/headshots/pic_RH.jpeg
+bio_url: RH
 
 bio:
 ---

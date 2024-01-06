@@ -16,6 +16,7 @@ orcid:
 github:
 
 image_path: /assets/images/headshots/pic_LT.jpeg
+bio_url: LT
 
 bio:
 ---

@@ -37,36 +37,40 @@
 
   {% for person in everyone-else %}
   <div class="member">
+    <a id="{{ site.baseurl }}{{ person.bio_url }}">
       <div class="image">
         <img src="{{ site.baseurl }}{{ person.image_path }}" title="{{ person.firstname }} {{ person.surname }}" alt="{{ person.firstname }} {{ person.surname }}" />
       </div>
-      <div class="info">
-        <div class="name">{{ person.firstname }} {{ person.surname }}</div>
-        <div class="role">{{ person.role }}</div>
-        <div class="contacts">{% include buttons.html %}</div>
-        <p>{{ person.bio }}</p>
-      </div>
+    </a>
+    <div class="info">
+      <div class="name">{{ person.firstname }} {{ person.surname }}</div>
+      <div class="role">{{ person.role }}</div>
+      <div class="contacts">{% include buttons.html %}</div>
+      <p>{{ person.bio }}</p>
+    </div>
   </div>
   {% endfor %}
 
   <h1 class="post-title">Alumni</h1>
   {% for person in alumni %}
   <div class="member">
+    <a id="{{ site.baseurl }}{{ person.bio_url }}">
       <div class="image">
         <img src="{{ site.baseurl }}{{ person.image_path }}" title="{{ person.firstname }} {{ person.surname }}" alt="{{ person.firstname }} {{ person.surname }}" />
       </div>
-      <div class="info">
-        <div class="name">{{ person.firstname }} {{ person.surname }}</div>
-        {% if person.role == 'PhD student' %}
-          <div class="role">PhD, {{ person.alumni | date: '%Y' }}</div>
-        {% elsif person.role == 'MSc student' %}
-          <div class="role">{{ person.role }}, {{ person.alumni | date: '%Y' }}</div>
-        {% else %}
-          <div class="role">{{ person.role }}</div>
-        {% endif %}
-        <div class="contacts">{% include buttons.html %}</div>
-        <p>{{ person.current-position }}</p>
-      </div>
+    </a>
+    <div class="info">
+      <div class="name">{{ person.firstname }} {{ person.surname }}</div>
+      {% if person.role == 'PhD student' %}
+        <div class="role">PhD, {{ person.alumni | date: '%Y' }}</div>
+      {% elsif person.role == 'MSc student' %}
+        <div class="role">{{ person.role }}, {{ person.alumni | date: '%Y' }}</div>
+      {% else %}
+        <div class="role">{{ person.role }}</div>
+      {% endif %}
+      <div class="contacts">{% include buttons.html %}</div>
+      <p>{{ person.current-position }}</p>
+    </div>
   </div>
   {% endfor %}
   <!-- <div class="alumni-grid">

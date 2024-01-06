@@ -16,6 +16,7 @@ orcid:
 github:
 
 image_path: /assets/images/headshots/pic_ND.jpg
+bio_url: ND
 
 bio:
 ---

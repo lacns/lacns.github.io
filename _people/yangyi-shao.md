@@ -16,6 +16,7 @@ orcid:
 github:
 
 image_path: /assets/images/headshots/pic_YS.jpg
+bio_url: YS
 
 bio:
 ---
