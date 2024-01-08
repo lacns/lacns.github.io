@@ -372,6 +372,14 @@ figcaption {
     filter: grayscale(17.5%);
     -webkit-filter: grayscale(17.5%);
   }
+
+  a:hover img { 
+    -webkit-filter: none;
+    filter: none;
+    transform: scale(1.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+
 }
 
 /**
