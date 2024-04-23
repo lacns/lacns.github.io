@@ -1,1 +1,1 @@
-# test site Lab website for the Language and Computation in Neural Systems Group
+# Testing place for website Language and Computation in Neural Systems
