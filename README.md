@@ -1,1 +1,1 @@
-# Testing place for website Language and Computation in Neural Systems
+# Website Language and Computation in Neural Systems
