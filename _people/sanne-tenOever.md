@@ -1,6 +1,6 @@
 ---
 firstname: Sanne
-surname: ten Oever
+surname: Ten Oever
 role: Postdoctoral researcher
 order:
 alumni: 01/06/2022

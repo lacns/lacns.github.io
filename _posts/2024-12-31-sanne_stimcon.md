@@ -3,7 +3,7 @@ layout: post
 date: 2023-12-01
 published: true
 title: "Phase dependent perception"
-description: "ten Oever et al. (2023)<br><i>biorxiv</i>"
+description: "Ten Oever et al. (2023)<br><i>biorxiv</i>"
 disciplines: speech perception, MEG, phase coding
 media: Preprint
 turl: https://www.biorxiv.org/content/10.1101/2023.04.17.537171v1.abstract

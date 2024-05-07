@@ -3,7 +3,7 @@ layout: post
 date: 2023-01-01
 published: true
 title: "Task independent tracking"
-description: "ten Oever et al. (2022)<br><i>eLife</i>"
+description: "Ten Oever et al. (2022)<br><i>eLife</i>"
 disciplines: UX, Responsive web design, HTML/CSS
 turl: https://pure.mpg.de/rest/items/item_3395208_1/component/file_3395209/content
 media: Journal
