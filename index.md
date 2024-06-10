@@ -72,7 +72,7 @@ order: 1
 <!-- </div> -->
 
 <div>
-  <img src="{{ base.url }}/assets/images/home/team/IMG_1569_mod.png" alt="Team_light">
+  <img src="{{ base.url }}/assets/images/home/team/team_light.webp" alt="Team_light">
 </div>
 <br>
 
