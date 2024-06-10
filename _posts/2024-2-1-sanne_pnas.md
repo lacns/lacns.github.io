@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-12-01
+date: 2024-1-1
 published: true
 title: "Phase dependent perception"
 description: "Ten Oever et al. (2024)<br><i>PNAS</i>"
