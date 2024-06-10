@@ -71,6 +71,11 @@ order: 1
 </h5>
 <!-- </div> -->
 
+<div>
+  <img src="{{ base.url }}/assets/images/home/team/IMG_1569_mod.png" alt="Team_light">
+</div>
+<br>
+
 <!-- <a href="https://www.biorxiv.org/content/10.1101/2024.03.19.585683v1" target="_blank">
   <img src="{{ base.url }}/assets/images/home/structure_building.webp" alt="A compositional neural architecture for language"> 
 </a>
@@ -99,6 +104,7 @@ order: 1
     </span>—and to do so in a way that stays faithful to the constraints on neural computation, to the formal properties of language, and to human behavior.
   </p>
 </div>
+
 <br>
 <p>
   Language is key to nearly all human activities, and is a defining human behavior. A fundamental question has shaped the study of language since its inception: Is our capacity for language built upon <i>linguistic structure</i> (e.g., grammar from Linguistics), or is it derived from the <i>statistical patterns</i> of language use (e.g., the probability of a sound or word given the preceding context)? The answer to this question matters because it determines what kinds of systems (viz., biological and artificial) can have language and has strong implications for the composition of the human mind. 
