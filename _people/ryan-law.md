@@ -3,7 +3,7 @@ firstname: Ryan
 surname: Law
 role: Lab manager
 order:
-alumni: 01/07/2022
+alumni: 2022
 current-position: PhD student at Cambridge and Gates Scholar
 
 email: ryan.law@mpi.nl

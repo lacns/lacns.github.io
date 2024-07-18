@@ -3,7 +3,7 @@ firstname: Sanne
 surname: Ten Oever
 role: Postdoctoral researcher
 order:
-alumni: 01/06/2022
+alumni: 2022
 current-position: Assistant professor, psychology department, Maastricht
 
 email: Sanne.tenOever@mpi.nl

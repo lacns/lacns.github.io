@@ -3,7 +3,7 @@ firstname: Ioanna
 surname: Zioga
 role: Postdoctoral researcher
 order:
-alumni:
+alumni: 2024
 current-position:
 
 email: ioanna.zioga@ru.nl

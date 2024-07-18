@@ -3,7 +3,7 @@ firstname: Marieke
 surname: Woensdregt
 role: Postdoctoral researcher
 order:
-alumni: 01/10/2023
+alumni: 2023
 current-position: Assistant professor at Radboud University
 
 email: marieke.woensdregt@mpi.nl

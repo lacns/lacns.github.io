@@ -3,7 +3,7 @@ firstname: Lorenzo
 surname: Titone
 role: MSc student
 order:
-alumni: 01/09/2021
+alumni: 2021
 current-position: PhD student at MPI for Human Cognitive and Brain Sciences
 
 email:

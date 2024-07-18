@@ -3,7 +3,7 @@ firstname: Bob
 surname: 'van Tiel'
 role: Postdoctoral researcher
 order:
-alumni: 01/02/2022
+alumni: 2022
 current-position: Assistant professor at Radboud University
 
 email: bobvantiel@gmail.com

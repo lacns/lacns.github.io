@@ -3,7 +3,7 @@ firstname: Leonardo
 surname: Zeine
 role: MSc student
 order:
-alumni: 01/11/2023
+alumni: 2023
 current-position: PhD student at MPI for Empirical Aesthetics
 
 email:

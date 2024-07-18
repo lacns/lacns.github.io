@@ -3,7 +3,7 @@ firstname: Fan
 surname: Bai
 role: Postdoctoral researcher
 order:
-alumni: 13/09/2023
+alumni: 2023
 current-position: 
 
 email: fan.bai@mpi.nl
