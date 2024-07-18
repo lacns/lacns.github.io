@@ -31,12 +31,6 @@
 {% assign alumni_not_empty = alumni_not_empty | sort: 'alumni' | reverse %}
 {% assign sorted_members = alumni_empty_or_non_int | concat: alumni_not_empty %}
 
-<ul>
-  {% for member in sorted_members %}
-    <li>{{ member.name }} - {{ member.alumni }}</li>
-  {% endfor %}
-</ul>
-
 
 <div class="collage-container">
   <div class="collage-item">
