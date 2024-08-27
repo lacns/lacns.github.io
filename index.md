@@ -100,7 +100,7 @@ order: 1
     and 
     <span class="icon-hover">
       <span><a>neuroscience</a></span> 
-      <i class="fa-solid fa-gears"></i>    
+      <i class="fa-solid fa-brain"></i>    
     </span>—and to do so in a way that stays faithful to the constraints on neural computation, to the formal properties of language, and to human behavior.
   </p>
 </div>
