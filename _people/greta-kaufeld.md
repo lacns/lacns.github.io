@@ -3,7 +3,7 @@ firstname: Greta
 surname: Kaufeld
 role: PhD student
 order:
-alumni: 2021
+alumni: 01/01/2021
 current-position: Swiss National Science Foundation
 
 email:
