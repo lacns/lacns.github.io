@@ -3,7 +3,7 @@ firstname: Sophie
 surname: Slaats
 role: PhD student
 order:
-alumni: 2024
+alumni: 01/01/2024
 current-position: Post-doctoral researcher at University of Geneva
 
 email: sophie.slaats@mpi.nl
