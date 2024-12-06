@@ -9,10 +9,8 @@ pages:
     - bundle install
     - bundle update minima
     - bundle exec jekyll build -d public
-    - echo "$AUTH_USERS" > public/.htaccess
   artifacts:
     paths:
       - public
-      - .htaccess
 
 
