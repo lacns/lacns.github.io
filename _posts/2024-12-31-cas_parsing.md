@@ -1,17 +1,15 @@
 ---
 layout: post
-date: 2024-01-01
+date: 2025-01-01
 published: true
 title: "Parsing strategies"
-description: "Coopmans et al. (2024)<br><i>biorxiv</i>"
+description: "Coopmans et al. (2025)<br><i>Plos Biology</i>"
 categories: print
 disciplines: comprehension, natural speech, parsing strategies
-media: Preprint
-ownership: Personal
-client:
-time_period: preprint
-turl: https://www.biorxiv.org/content/10.1101/2024.03.19.585683v1
-thumbnail: "/posts/9999_cas_parsing/9999_cas_parsing.webp"
+media: Journal
+time_period: 2025
+turl: https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3631643_1
+thumbnail: "/posts/2025_cas_parsing/2025_cas_parsing.webp"
 
 intro: |
   A project to design a catalogue for graduates of the Textile Design course
