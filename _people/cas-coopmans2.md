@@ -3,8 +3,8 @@ firstname: Cas W.
 surname: Coopmans
 role: Postdoctoral researcher
 order:
-alumni: 
-current-position: 
+alumni: 2025
+current-position: Postdoctoral researcher at New York University
 
 email: cas.coopmans@mpi.nl
 
