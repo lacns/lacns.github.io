@@ -27,7 +27,7 @@ order: 1
   window.addEventListener('scroll', handleScroll);
 </script>
 
-<h5 class="header" style="font-size:100%;">An independent research group at the <a href="https://mpi.nl" target="_blank">Max Planck Institute for Psycholinguistics</a> and the <a href="https://www.ru.nl/donders/" target="_blank">Donders Institute for Brain, Cognition and Behaviour</a>.</h5>
+<h5 class="header" style="font-size:100%;">An independent research group at the <a href="https://mpi.nl" target="_blank">Max Planck Institute for Psycholinguistics</a> and the <a href="https://www.ru.nl/en/departments/institutes/donders-centre-for-cognitive-neuroimaging/" target="_blank">Donders Institute for Brain, Cognition and Behaviour</a>.</h5>
 
 <!-- <div class="icon-hover"> -->
 <h1 class="post-title" id="triggerElement">
