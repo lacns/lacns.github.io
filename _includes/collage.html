@@ -100,7 +100,7 @@
     {% endfor %}
   </div>
   <div class="collage-item">
-    {% for person in sorted_members limit:5 offset:30 %}
+    {% for person in sorted_members limit:7 offset:32 %}
       <a href="{{ site.baseurl }}#{{ person.bio_url }}">
       {% if person.alumni == nil %}
         <img src="{{ site.baseurl }}{{ person.image_path }}" title="{{ person.firstname }} {{ person.surname }}" alt="{{ person.firstname }} {{ person.surname}}" />
@@ -111,7 +111,7 @@
     {% endfor %}
   </div>
   <div class="collage-item">
-    {% for person in sorted_members limit:5 offset:35 %}
+    {% for person in sorted_members limit:5 offset:38 %}
       <a href="{{ site.baseurl }}#{{ person.bio_url }}">
       {% if person.alumni == nil %}
         <img src="{{ site.baseurl }}{{ person.image_path }}" title="{{ person.firstname }} {{ person.surname }}" alt="{{ person.firstname }} {{ person.surname}}" />
@@ -122,7 +122,7 @@
     {% endfor %}
   </div>
   <div class="collage-item">
-    {% for person in sorted_members limit:5 offset:40 %}
+    {% for person in sorted_members limit:4 offset:41 %}
       <a href="{{ site.baseurl }}#{{ person.bio_url }}">
       {% if person.alumni == nil %}
         <img src="{{ site.baseurl }}{{ person.image_path }}" title="{{ person.firstname }} {{ person.surname }}" alt="{{ person.firstname }} {{ person.surname}}" />
