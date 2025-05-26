@@ -13,7 +13,7 @@ twitter:
 researchgate:
 impactstory:
 orcid:
-github: https://github.com/vstefanec/
+github: vstefanec
 
 image_path: /assets/images/headshots/pic_VS.webp
 bio_url: VS
