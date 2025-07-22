@@ -34,7 +34,7 @@
 
 <div class="collage-container">
   <div class="collage-item">
-    {% for person in sorted_members limit:4 %}
+    {% for person in sorted_members limit:5 %}
       <a href="{{ site.baseurl }}#{{ person.bio_url }}">
       {% if person.alumni == nil %}
         <img src="{{ site.baseurl }}{{ person.image_path }}" title="{{ person.firstname }} {{ person.surname }}" alt="{{ person.firstname }} {{ person.surname}}" />
