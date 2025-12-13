@@ -19,4 +19,8 @@ image_path: /assets/images/headshots/pic_GK.webp
 bio_url: GK
 
 bio:
+id: greta_kaufeld
+aliases: []
+tags: []
+gitlab:
 ---

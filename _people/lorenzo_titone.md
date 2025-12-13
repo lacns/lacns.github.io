@@ -19,4 +19,8 @@ image_path: /assets/images/headshots/pic_LT.webp
 bio_url: LT
 
 bio:
+id: lorenzo_titone
+aliases: []
+tags: []
+gitlab:
 ---

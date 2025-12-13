@@ -19,4 +19,8 @@ image_path: /assets/images/headshots/pic_JZ.webp
 bio_url: JZ
 
 bio:
+id: junyuan_zhao
+aliases: []
+tags: []
+gitlab:
 ---

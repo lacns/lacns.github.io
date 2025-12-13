@@ -18,4 +18,9 @@ github:
 image_path: /assets/images/headshots/placeholder.png
 
 bio:
+id: sara_carta
+aliases: []
+tags: []
+gitlab:
+bio_url:
 ---
